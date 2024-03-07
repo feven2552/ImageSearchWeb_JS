@@ -16,8 +16,8 @@ Welcome to the **Image Search App**! This project is a sleek, user-friendly appl
 For example:
 
 ```markdown
-![Home Page](path/to/homepage_screenshot.png)
-![Search Results](path/to/search_results_screenshot.png)
+![Home Page](file:///C:/Users/Feven/Desktop/Capture1.PNG)
+![Search Results](file:///C:/Users/Feven/Desktop/Capture2.PNG)
 ```
 
 ## 🚀 Features
@@ -53,22 +53,12 @@ Simply enter a keyword into the search bar and press the "Search" button or ente
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](link_to_your_issues_page). Let's make **Image Search App** even better, together. 👥
+Contributions, issues, and feature requests are welcome! Let's make **Image Search App** even better, together. 👥
 
 ## 💖 Support
 
 Give a ⭐️ if this project helped you or if you liked it!
 
-## 📝 License
+Project Link: [[https://github.com/yourusername/image-search-app](https://github.com/yourusername/image-search-app](https://feven2552.github.io/ImageSearchWeb_JS/)https://feven2552.github.io/ImageSearchWeb_JS/)
 
-Distributed under the MIT License. See `LICENSE` for more information.
 
-## 📩 Contact
-
-Your Name - [@yourtwitterhandle](https://twitter.com/yourtwitterhandle) - email@example.com
-
-Project Link: [https://github.com/yourusername/image-search-app](https://github.com/yourusername/image-search-app)
-
----
-
-Remember to replace placeholders (like URLs, contact information, and paths to screenshots) with your actual data. Also, adjust the sections as needed to fit your project's specifics. If you have your screenshots ready, I recommend creating a `screenshots` directory in your project to store them. This way, they're organized and easily accessible for inclusion in your README.
