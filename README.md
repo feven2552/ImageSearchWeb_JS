@@ -45,6 +45,6 @@ Contributions, issues, and feature requests are welcome! Let's make **Image Sear
 
 Give a ⭐️ if this project helped you or if you liked it!
 
-Project Link: [[https://github.com/yourusername/image-search-app](https://github.com/yourusername/image-search-app](https://feven2552.github.io/ImageSearchWeb_JS/)https://feven2552.github.io/ImageSearchWeb_JS/)
+Project Link:(https://feven2552.github.io/ImageSearchWeb_JS/)https://feven2552.github.io/ImageSearchWeb_JS/)
 
 
