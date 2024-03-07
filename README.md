@@ -7,21 +7,11 @@ Certainly! Creating a README file that's both informative and visually appealing
 Welcome to the **Image Search App**! This project is a sleek, user-friendly application designed to help you find and browse images from Unsplash. Dive into an endless stream of high-quality images, perfect for your next project, wallpaper, or inspiration. 🌟
 
 ## 📸 Screenshots
+![Capture1](https://github.com/feven2552/ImageSearchWeb_JS/assets/93426602/f8353888-b146-4b40-b686-79814f2c77b0) ````Searching "sunset"
 
 
-```markdown
-![Overview of the Image search web](file:///C:/Users/Feven/Desktop/Capture1.PNG)
-```
-
-For example:
-
-```markdown
-![Home Page](file:///C:/Users/Feven/Desktop/Capture1.PNG)
-![Search Results](file:///C:/Users/Feven/Desktop/Capture2.PNG)
-```
 
 ## 🚀 Features
-
 - **Search Functionality**: Easily search for images with a keyword. 🔍
 - **Infinite Scroll/Pagination**: Load more images as you scroll or by clicking the "Show More" button. 📜
 - **Responsive Design**: Enjoy a beautiful, user-friendly interface on any device. 📱💻
